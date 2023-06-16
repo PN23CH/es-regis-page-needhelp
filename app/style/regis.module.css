@@ -1,0 +1,34 @@
+.idcardBox {
+  height: 38px;
+  border-radius: 5px;
+  font-size: 15px;
+  padding: 10px;
+}
+/*Select*/
+.SelectItem[data-disabled] {
+  color: "neutral";
+}
+.SelectTrigger[data-placeholder] {
+  color: "black";
+}
+
+/*Scroll*/
+.ScrollAreaRoot {
+  width: 100%;
+  height: 100%;
+}
+
+.ScrollAreaViewport {
+  width: 100%;
+  height: 100%;
+}
+
+.ScrollAreaScrollbar {
+  width: 4px;
+  padding: 5px 2px;
+}
+
+.ScrollAreaThumb {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 3px;
+}
