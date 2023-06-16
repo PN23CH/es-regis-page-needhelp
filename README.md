@@ -1,6 +1,8 @@
 ### Register Form for e-Service
 
 ## **📫 Release Update** : _Begin project_
+![image](https://github.com/NAX-Solution/es-regis-page/assets/131460426/6a57f85b-5302-405d-b75b-35481cc2a3a6)
+
 
 ## **and We have** : _Navbar Ui / main Logo / Footer_
 
